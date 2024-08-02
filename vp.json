@@ -1,0 +1,131 @@
+{
+  "sites": [
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "搜索 | 豆瓣",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/drpy.js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_yunpanres",
+      "name": "云盘 | 云盘资源网",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gitbox520.github.io/gao/js/yunpanres.js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_校长影视",
+      "name": "云盘 | 校长影视",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gitbox520.github.io/gao/js/xzys.js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_wogg",
+      "name": "Ali | 玩偶哥哥",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gitbox520.github.io/gao/js/wogg.js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_woggxyz",
+      "name": "Ali | 玩偶哥哥[备]",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gitbox520.github.io/gao/js/woggb.js",
+      "searchable": 0
+    },
+    {
+      "key": "drpy_js_低端",
+      "name": "影视 | 低端",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/ddys_d.js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_厂长资源",
+      "name": "影视 | 厂长资源",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gitbox520.github.io/gao/js/厂长资源.js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_独播库[飞]",
+      "name": "起飞 | 独播库",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/独播库[飞].js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_哔哩影视",
+      "name": "弹幕 | 哔哩影视",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/哔哩影视.js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_NY影院",
+      "name": "影视 | NY影院",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/NY影院.js",
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_欧帝影院",
+      "name": "影视 | 欧帝影院",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/欧帝影院.js",
+      "searchable": 1
+    },
+    {
+      "key": "黑木耳",
+      "name": "🐝黑木耳",
+      "protocol": "VOD",
+      "ext": "https://www.heimuer.tv/api.php/provide/vod/",
+      "searchable": 0
+    },
+    {
+      "key": "drpy_js_童趣",
+      "name": "少儿 | 童趣",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/童趣.js",
+      "searchable": 0
+    },
+    {
+      "key": "drpy_js_哔哩直播",
+      "name": "弹幕 | 哔哩直播",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/哔哩直播.js",
+      "searchable": 0
+    },
+    {
+      "key": "drpy_js_JustLive",
+      "name": "弹幕 | JustLive",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/JustLive.js",
+      "searchable": 0
+    },
+    {
+      "key": "drpy_js_相声随身听",
+      "name": "相声 | 相声随身听",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/相声随身听.js",
+      "searchable": 0
+    },
+    {
+      "key": "drpy_js_短视频",
+      "name": "聚合 | 短视频",
+      "protocol": "DRPY_Crack",
+      "ext": "https://gaotianliuyun.github.io/gao/js/短视频.js",
+      "searchable": 0
+    }
+  ],
+  "extensions": [
+    "https://gitbox520.github.io/gao/lib/DRPY.zip?v18",
+    "https://gitbox520.github.io/gao/lib/IPTV.zip?v2",
+    "https://gitbox520.github.io/gao/lib/Alist_Ya.zip?v10",
+    "https://gitbox520.github.io/gao/lib/APPYS.zip?v1",
+    "https://file.cubeplayer.top/Alist.zip?v=5",
+    "https://file.cubeplayer.top/Alist_VOD.zip?v=6"
+  ]
+}
